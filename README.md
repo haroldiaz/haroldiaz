@@ -1,27 +1,14 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Harold</h2>
 
-<!--
-**haroldiaz/haroldiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻•💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### Programming Languages 🌐
+<h3>🛠 Tech Stack</h3>
 
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+- 💻 &nbsp; Python | Java | C++ | C% | MySQL
 
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
