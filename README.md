@@ -28,8 +28,8 @@ class Skills extends SoftwareDeveloper {
 <h3>🛠 Tech Stack</h3>
 
 <p align = "center">
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="http://img.shields.io/badge/-Java%20-F89820?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-C%20&%20C++%20-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   
