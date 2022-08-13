@@ -4,19 +4,18 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'haroldiaz';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  name     = 'harold diaz';
+  title    = 'system technique';
+  location = 'Colombia, CO';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'Java', 'C++' , 'C#' , 'Python'];
+  databases  = ['MySQL', 'PostgreSQL'];
+  frameworks = ['React JS];
 }
 ```
 
