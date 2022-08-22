@@ -1,5 +1,6 @@
 ### Hi there 👋<h2> I'm Harold</h2>
 
+```js
 import SoftwareDeveloper from 'haroldiaz';
 
 class Bio extends SoftwareDeveloper {
