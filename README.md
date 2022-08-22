@@ -1,9 +1,5 @@
 ### Hi there 👋<h2> I'm Harold</h2>
-/*<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>*/
 
-```js
 import SoftwareDeveloper from 'haroldiaz';
 
 class Bio extends SoftwareDeveloper {
