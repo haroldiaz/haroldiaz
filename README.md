@@ -1,8 +1,8 @@
-### Hi there 👋<h2> I'm Harold</h2>
+### Hi there 👋
 
-## 📊 Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroldiaz&layout=compact&theme=tokyonight)
+
 
 
 <h3>🛠 Tech Stack</h3>
