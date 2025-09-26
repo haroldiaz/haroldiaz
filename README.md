@@ -1,25 +1,8 @@
 ### Hi there 👋<h2> I'm Harold</h2>
 
-```js
-import SoftwareDeveloper from 'haroldiaz';
+## 📊 Lenguajes más utilizados
 
-class Bio extends SoftwareDeveloper {
-  name     = 'harold diaz';
-  title    = 'system technique';
-  location = 'Colombia, CO';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Java', 'C++' , 'C#' , 'Python'];
-  databases  = ['MySQL', 'PostgreSQL'];
-  frameworks = ['React JS'];
-}
-```
-
-<h3> 👨🏻•💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 
 
 <h3>🛠 Tech Stack</h3>
