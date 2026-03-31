@@ -14,19 +14,6 @@
   <img src="https://img.shields.io/badge/VSCode-000000?style=flat&logo=visual-studio-code&logoColor=blue"/>
 </p>
 
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroldiaz&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldiaz&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 📌 Proyectos Destacados
 - 🔹 App de citas (React + Node.js + PostgreSQL)
